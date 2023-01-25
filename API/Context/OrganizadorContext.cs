@@ -1,7 +1,6 @@
 using Microsoft.EntityFrameworkCore;
-using MVC.Models;
-
-namespace MVC.Context
+using TrilhaApiDesafio.Models;
+namespace TrilhaApiDesafio.Context
 {
     public class OrganizadorContext : DbContext
     {
